@@ -138,3 +138,7 @@ Expected output includes:
 ### Template Method
 - Base class defines structure, subclasses implement details
 - Consistent behavior across all book types
+
+## Screenshot
+
+![Alt text](running_app.png "Running App")
